@@ -28,20 +28,10 @@ In Week 7, I learned how to use pytest parametrization to test Python functions 
 | `test_param_marks.py` | Tests using expected failure markers. |
 | `test_param.py` | Tests using basic parametrization. |
 
-## How to Run the Tests
-
-First, open the Week 7 folder in the VS Code terminal.
-
-Run all tests:
-
-```bash
-pytest -v
-```
-
 
 ## Test Results
 
-Expected result: 34 passed, 1 xfailed. The expected failure is the lecture demonstration, not an unfinished exercise.
+Expected result: 40 passed, 1 xfailed. The expected failure is the lecture demonstration, not an unfinished exercise.
 
 ## Reflection
 
